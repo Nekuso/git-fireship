@@ -8,6 +8,7 @@
 
 This project provides a node script that encrypts your mailing address with a public key.
 
+
 ## Instructions
 
 Note: You must have Node 10 installed locally.
